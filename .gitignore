@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtualenv
+venv/
+ENV/
+env/
+.venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and output
+*.log
+output/
+logs/
+
+# Data directories
+data/
+
+# VSCode settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+#model
+scripts/multimodal_road_condition_model.pth
