@@ -28,7 +28,10 @@ For demonstration purposes, we are creating synthetic data by augmenting the ori
 
 ## Model Performance
 
-Our trained model achieved a score of 93% on the test dataset, demonstrating its effectiveness in classifying road conditions under various weather scenarios.
+Our trained model achieved a score of 97% on the test dataset, demonstrating its effectiveness in classifying road conditions under various weather scenarios.
+
+<img width="421" alt="Screenshot 2024-06-29 at 7 04 23 PM" src="https://github.com/catplotlib/Weather-Aware-Road-Condition-Classification-for-Autonomous-Vehicles/assets/61319491/8a0fb368-862a-4bba-98e2-57d647d1f049">
+
 
 ## Acknowledgments
 
