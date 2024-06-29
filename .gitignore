@@ -28,3 +28,5 @@ data/
 
 #model
 scripts/multimodal_road_condition_model.pth
+
+.DS_Store
